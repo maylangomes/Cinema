@@ -1,0 +1,48 @@
+input, select {
+    text-align: center;
+}
+body {
+    background-color: #EEE9DA;
+    font-family: 'Alegreya', serif;
+}
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    padding-bottom: 2rem;
+    color: #6096B4;
+    margin-bottom: 7rem;
+}
+form {
+    color: #6096B4;
+    margin-bottom: 7rem;
+}
+input {
+    font-family: 'Alegreya', serif;
+    font-size: 1.5rem;
+    color: #A4907C;
+}
+.input {
+    display: flex;
+    justify-content: center;
+}
+::placeholder {
+    font-size: 1.2rem;
+}
+label {
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    margin-bottom: 1.2rem;
+}
+.submit {
+    display: flex;
+    justify-content: center;
+    font-size: 1.4rem;
+    color: #6096B4;
+    font-weight: 600;
+}
+select {
+    color : #6096B4;
+    font-weight: 600;
+    font-size: 1.4rem;
+}
